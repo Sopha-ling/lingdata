@@ -23,17 +23,17 @@
 				</nav> 
 			</div>
 		</nav>
-		<header style="background-color:plum; padding-top:70px; "> 
+		<header style="background-color:green; padding-top:70px; "> 
 			<div class="container"> 
 				<div class="row">
 					<div class="col-md-4">
 						<br/><br/>
 						<h1>Софа Землянская</h1>
 						<hr>
-						<p><i>Человек, не умеющий <b>делать</i> HTML</b></p> 
+						<p><b>Platypus</b></p> 
 	                </div>
 					<div class="col-md-4">
-        	            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg/368px-Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg" title="Petrus Christus - Portrait of a Young Woman - Google Art Project.jpg" alt="" style="height:320px; margin:20px 20px 40px 20px; " >
+        	            <img src="https://img.joinfo.ua/i/2020/01/o/5e25ba0ca9c37.jpg" title="https://im0-tub-ru.yandex.net/i?id=e78f5a411203cd1622a2e38ffb60216b&n=13" alt="" style="height:320px; margin:20px 20px 40px 20px; " >
 					</div>
 	            </div>
 			</div>
@@ -56,27 +56,15 @@
 				</div>
 				<div class="col-md-6">
 					<article>
-						<h3>Тут можно написать</h2>
-						<p>Еще  <br />
-						много <br />
-						много <br />
-						много <br />
-						много <br />
-						много <br />
-						много <br />
-						много <br />
-						много <br />
-						много <br />
-						много <br />
-						всего о себе, но зачем?</p>
+						<h3>Что я люблю</h2>
+						<p>Люблю утконосов</p>
 					</article>
 				</div>
 				<div class="col-md-3">
 					<h3>Я в соцсетях</h3>
 					<ul>
-						<li>VK</li>
-						<li>Facebook</li>
-						<li>Instagram</li>
+						<a href="https://vk.com/sophia.zemlyanskaya" target="_blank">ВКонтакте</a><br />
+						<a href="https://www.instagram.com/space.machine/" target="_blank">Instagram</a>
 					</ul>
 				</div>
 			</div>
