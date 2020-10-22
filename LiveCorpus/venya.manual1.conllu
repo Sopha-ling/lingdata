@@ -312,7 +312,7 @@
 309	Там	там	ADV	_	Degree=Pos	_	_	_	words@aml1970m#@aml1970m#180.176#180.303
 310	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	_	_	_	words@aml1970m#@aml1970m#180.303#180.43
 311	ждут	ждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@aml1970m#@aml1970m#180.43#180.557
-312	щас	щас	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@aml1970m#@aml1970m#180.557#180.684
+312	щас	щас	ADV	_	Degree=Pos	_	_	_	words@aml1970m#@aml1970m#180.557#180.684
 313	/	/	PUNCT	_	_	_	_	_	words@aml1970m#@aml1970m#180.684#180.815
 314	Мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	words@aml1970m#@aml1970m#181.415#181.677
 315	сказали	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@aml1970m#@aml1970m#181.677#181.939
@@ -364,7 +364,7 @@
 361	с	с	ADP	_	_	_	_	_	words@aml1970m#@aml1970m#201.767#202.028
 362	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@aml1970m#@aml1970m#202.028#202.289
 363	денег	деньги	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	words@aml1970m#@aml1970m#202.289#202.55
-364	нету	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@aml1970m#@aml1970m#202.55#202.811
+364	нету	нет	DET	_	_	_	_	_	words@aml1970m#@aml1970m#202.55#202.811
 365	таких	такой	DET	_	Case=Gen|Number=Plur	_	_	_	words@aml1970m#@aml1970m#202.811#203.072
 366	/	/	PUNCT	_	_	_	_	_	words@aml1970m#@aml1970m#203.072#203.34
 367	И	и	CCONJ	_	_	_	_	_	words@aml1970m#@aml1970m#203.8#204.024
@@ -517,7 +517,7 @@
 514	/	/	PUNCT	_	_	_	_	_	words@e1972f#@e1972f#76.04#76.295
 515	оо	ооо	INTJ	_	_	_	_	_	words@e1972f#@e1972f#76.295#76.55
 516	/	/	PUNCT	_	_	_	_	_	words@e1972f#@e1972f#76.55#76.805
-517	общепринят	общепринять	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	_	_	_	words@e1972f#@e1972f#76.805#77.06
+517	общепринят	общепринять	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	_	_	words@e1972f#@e1972f#76.805#77.06
 518	/	/	PUNCT	_	_	_	_	_	words@e1972f#@e1972f#77.06#77.315
 519	все	все	PRON	_	Animacy=Anim|Case=Nom|Number=Plur	_	_	_	words@e1972f#@e1972f#77.315#77.57
 520	тебя	ты	PRON	_	Case=Acc|Number=Sing|Person=2	_	_	_	words@e1972f#@e1972f#77.57#77.825
