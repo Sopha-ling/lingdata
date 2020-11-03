@@ -106,7 +106,7 @@
 106	эээ	эээ	INTJ	_	_	_	_	_	words@va1985f#@va1985f#74.11#74.482
 107	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@va1985f#@va1985f#74.482#74.639
 108	хотела	хотеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@va1985f#@va1985f#74.639#75.014
-109	завести	завести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@va1985f#@va1985f#75.014#75.389
+109	завести	заводить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@va1985f#@va1985f#75.014#75.389
 110	блог	блог	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@va1985f#@va1985f#75.389#75.752
 111	с	с	ADP	_	_	_	_	_	words@va1985f#@va1985f#75.752#75.848
 112	рецептами	рецепт	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	_	_	_	words@va1985f#@va1985f#75.848#76.744
