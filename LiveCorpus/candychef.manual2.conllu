@@ -170,12 +170,12 @@
 170	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@va1985f#@va1985f#93.003#93.116
 171	тоже	тоже	PART	_	_	_	_	_	words@va1985f#@va1985f#93.116#93.29
 172	захотела	захотеть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@va1985f#@va1985f#93.29#93.604
-173	завести	завести	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@va1985f#@va1985f#93.604#93.837
+173	завести	заводить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@va1985f#@va1985f#93.604#93.837
 174	себе	себя	PRON	_	Case=Dat	_	_	_	words@va1985f#@va1985f#93.837#93.988
 175	блог	блог	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@va1985f#@va1985f#93.988#94.331
 176	и	и	CCONJ	_	_	_	_	_	words@va1985f#@va1985f#94.331#94.436
 177	даже	даже	PART	_	_	_	_	_	words@va1985f#@va1985f#94.436#94.645
-178	завела	завести	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@va1985f#@va1985f#94.645#95.279
+178	завела	заводить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@va1985f#@va1985f#94.645#95.279
 179	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	words@va1985f#@va1985f#95.279#95.569
 180	где-то	где-то	ADV	_	Degree=Pos	_	_	_	words@va1985f#@va1985f#95.569#95.819
 181	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@va1985f#@va1985f#95.819#96.116
@@ -234,7 +234,7 @@
 234	вот	вот	PART	_	_	_	_	_	words@va1985f#@va1985f#115.633#115.808
 235	/	/	PUNCT	_	_	_	_	_	words@va1985f#@va1985f#115.808#115.872
 236	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@va1985f#@va1985f#115.872#115.982
-237	завела	завести	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@va1985f#@va1985f#115.982#116.488
+237	завела	заводить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@va1985f#@va1985f#115.982#116.488
 238	инстаграм	инстаграм	PRROPN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	_	_	_	words@va1985f#@va1985f#116.488#117.116
 239	плюс	плюс	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@va1985f#@va1985f#117.116#117.418
 240	к	к	ADP	_	_	_	_	_	words@va1985f#@va1985f#117.418#117.511
